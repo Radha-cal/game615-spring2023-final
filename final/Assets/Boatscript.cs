@@ -135,12 +135,12 @@ public class Boatscript : MonoBehaviour
         if (other.collider.CompareTag("Memphis"))
         {
             gm.checkpointSave(new Vector3(-0.1f, -46.5f, 0));
-            SceneManager.LoadScene("RPGSection");
+            SceneManager.LoadScene("Memphis");
         }
         if (other.collider.CompareTag("New Orleans"))
         {
             gm.checkpointSave(new Vector3(1.45f, -106.4f, 0));
-            SceneManager.LoadScene("RPGSection");
+            SceneManager.LoadScene("NewOrleans");
         }
     }
     //public void LoadGame(){
