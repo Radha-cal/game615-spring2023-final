@@ -62,7 +62,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Ending.unity
     guid: ed8fd5376e53032428efd78567f885b6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Testing.unity
     guid: 04722a49f54a96140a8fda2c9ed592be
   m_configObjects: {}
