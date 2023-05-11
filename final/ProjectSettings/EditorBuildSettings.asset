@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PirateBattle.unity
+    guid: ad2475e87af06354cbc2732e1d38d996
+  - enabled: 1
+    path: Assets/Scenes/RPGSection.unity
+    guid: 0ad966e268dc3e043844fe5c392b9c9e
+  - enabled: 1
+    path: Assets/Scenes/ShipTravel.unity
+    guid: a88e4c506dcebbd488907da5319f712d
+  - enabled: 1
+    path: Assets/Scenes/SquidBattle.unity
+    guid: 3b7c1aa1a183a7c41a1c78c7e1dcdac5
+  - enabled: 1
+    path: Assets/Scenes/RapidsEncounter.unity
+    guid: 8341b11886da1cb438c8856733c91dc9
+  - enabled: 1
+    path: Assets/Ink/Demos/Basic Demo/Basic Demo.unity
+    guid: 8af1c5cbac5094782904447c9410b35d
+  - enabled: 1
+    path: Assets/Scenes/Memphis.unity
+    guid: 44400b12f8a7a1049a2515f37b54ccf6
+  - enabled: 1
+    path: Assets/Pyramid.unity
+    guid: 8253a55e2f08733499f61c6394bc667f
+  - enabled: 1
+    path: Assets/Scenes/TownHall.unity
+    guid: 556714e82aa08cc4f9734fe37f6b5d33
+  - enabled: 1
+    path: Assets/BaseScene.unity
+    guid: 8ba666953e8cb414495dd22ed358a92e
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 84de7aa0e9f26b2489b4fc98cba51e5c
+  - enabled: 1
+    path: Assets/Scenes/Davenport.unity
+    guid: a34612aaf96d4254f91e3b6047f793d1
+  - enabled: 1
+    path: Assets/Scenes/Louisville.unity
+    guid: 2a94867281ef81042b1ab55ecd99ed65
+  - enabled: 1
+    path: Assets/Scenes/NewOrleans.unity
+    guid: 2b22a1baf154735459e866f0c040e5c2
+  - enabled: 1
+    path: Assets/Scenes/Boat.unity
+    guid: b17f84904b189264a9e65d9b59d651b8
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 4a8c1f36a4e679a43a55d6c2735a69e3
+  - enabled: 1
+    path: Assets/Moroe.unity
+    guid: 8bca8a0eacd5457439fb7a1d52e45b9f
+  - enabled: 1
+    path: Assets/Ending.unity
+    guid: ed8fd5376e53032428efd78567f885b6
+  - enabled: 1
+    path: Assets/Testing.unity
+    guid: 04722a49f54a96140a8fda2c9ed592be
+  m_configObjects: {}
